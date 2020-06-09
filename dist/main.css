@@ -133,7 +133,7 @@ body {
   }
 }
 
-.block-black {
+.black-block {
   background-color: black;
   min-height: 200px;
   flex-grow: 1;
